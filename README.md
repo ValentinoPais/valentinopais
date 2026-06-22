@@ -20,7 +20,7 @@ on top when it actually matters.
 #### Selected work
 | Project | What it is | Highlights |
 |---|---|---|
-| **Simax** | Enterprise help-desk platform | .NET MVC + SQL, client management module, strong UI/UX → [live demo](#) |
+| **Simax** | Enterprise help-desk platform | .NET MVC + SQL, client management module, strong UI/UX → [live demo](https://valentinopais.github.io/Portfolio-Valentino-Pais-2026/demos/simax/index.html) |
 | **SIACC** | Digital-signature system for a national-scale org (Argentine Army health org) | REST API, custom Chrome extension, ePass hardware integration, PDF signing — **in production** |
 | **Fiber-optic monitoring display** | Real-time ops/monitoring dashboard (Telesmart) | Full-stack, process automation |
 | **KanuSur** | Content-licensing system + Android app | Web licensing + protected video playback |
