@@ -29,12 +29,12 @@ on top when it actually matters.
 
 #### Tech
 `C#` `.NET MVC` `JavaScript` `jQuery` `SQL Server` `MySQL` `REST APIs`
-`Chrome Extensions` `HTML/CSS` `Android` `Unity` · exploring `LLMs / RAG / Agents`
+`Chrome Extensions` `HTML/CSS` `Android` `Unity` · `LLMs / RAG / Agents`
 
 ---
 
 #### Let's work together
 I take on freelance projects — building internal tools, integrations, and modernizing .NET systems.
 
-📫 valenpais@gmail.com · 🌐 [portfolio](https://valentinopais.github.io/Portfolio-Valentino-Pais-2026/) · 💼 [LinkedIn](https://www.linkedin.com/in/valentinopais/)
+valenpais@gmail.com · [portfolio](https://valentinopais.github.io/Portfolio-Valentino-Pais-2026/) · [LinkedIn](https://www.linkedin.com/in/valentinopais/)
 ```
