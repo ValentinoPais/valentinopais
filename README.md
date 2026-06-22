@@ -36,5 +36,5 @@ on top when it actually matters.
 #### Let's work together
 I take on freelance projects — building internal tools, integrations, and modernizing .NET systems.
 
-📫 valenpais@gmail.com · 🌐 [portfolio]([#](https://valentinopais.github.io/Portfolio-Valentino-Pais-2026/)) · 💼 [LinkedIn](https://www.linkedin.com/in/valentinopais/)
+📫 valenpais@gmail.com · 🌐 [portfolio](https://valentinopais.github.io/Portfolio-Valentino-Pais-2026/) · 💼 [LinkedIn](https://www.linkedin.com/in/valentinopais/)
 ```
