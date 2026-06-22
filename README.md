@@ -5,7 +5,7 @@ ticketing systems, dashboards and the hard integrations most developers avoid
 (digital signatures, hardware, native bridges, legacy .NET). I add an **AI layer**
 on top when it actually matters.
 
-🇦🇷 Buenos Aires, Argentina · Working in English & Spanish · 5+ years shipping production software
+Buenos Aires, Argentina · Working in English & Spanish · 5+ years shipping production software
 
 ---
 
