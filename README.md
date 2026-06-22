@@ -17,13 +17,14 @@ Buenos Aires, Argentina · Working in English & Spanish · 5+ years shipping pro
 
 ---
 
-#### Selected work
-| Project | What it is | Highlights |
-|---|---|---|
-| **Simax** | Enterprise help-desk platform | .NET MVC + SQL, client management module, strong UI/UX → [live demo](https://valentinopais.github.io/simax-demo/) |
-| **SIACC** | Digital-signature system for a national-scale org (Argentine Army health org) | REST API, custom Chrome extension, ePass hardware integration, PDF signing — **in production** |
-| **Fiber-optic monitoring display** | Real-time ops/monitoring dashboard (Telesmart) | Full-stack, process automation |
-| **KanuSur** | Content-licensing system + Android app | Web licensing + protected video playback |
+## Selected work
+
+- **Simax** — Built an enterprise help-desk platform that centralizes ticketing, SLA tracking, escalations and client management, by developing it end-to-end in ASP.NET MVC + SQL Server with a strong UI/UX focus. → [live demo](https://valentinopais.github.io/simax-demo/)
+- **SIACC** — Enabled secure PDF digital signing for a national-scale organization (Argentine Army health org) — **in production** — by building a REST API, a custom Chrome extension bridged to a native C# executable, and ePass hardware integration.
+- **Fiber-optic monitoring display (Telesmart)** — Gave the operations team real-time visibility over fiber-optic processes by building a full-stack monitoring dashboard and automating internal workflows.
+- **KanuSur** — Enabled selling and playback of protected audiovisual content by building a licensing/key system, a web store and an Android app.
+- **Personal portfolio** — Designed and built my own developer portfolio (bento-grid UI, bilingual, interactive map). → [live](https://valentinopais.github.io/Portfolio-Valentino-Pais-2026/)
+- **Mateo Ronn — Photographer** — Designed and developed a portfolio website for a professional photographer. → [live](https://mateoronnabregu.netlify.app/)
 
 ---
 
